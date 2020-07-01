@@ -144,5 +144,6 @@ dist
 *.css.map
 *.sass.map
 *.scss.map
+*.scss
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,sass,node
