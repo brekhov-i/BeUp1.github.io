@@ -146,4 +146,10 @@ dist
 *.scss.map
 *.scss
 
+###  Файлы Dev  ###
+build
+package-lock.json
+package.json
+src
+.editorconfig
 # End of https://www.toptal.com/developers/gitignore/api/macos,sass,node
